@@ -1,0 +1,134 @@
+<tr class='hello'>
+<td>Amit Awekar</td>
+<td>".decide($row['Amit Awekar'])."</td>
+</tr>
+
+<tr class='hello'>
+<td>Arjit Sur</td>
+<td>".decide($row['Arjit Sur'])."</td>
+</tr>
+
+<tr class='hello'>
+<td>Arnab Sarkar</td>
+<td>".decide($row['Arnab Sarkar'])."</td>
+</tr>
+
+<tr class='hello'>
+<td>Aryabartta Sahu</td>
+<td>".decide($row['Aryabartta Sahu'])."</td>
+</tr>
+
+<tr class='hello'>
+<td>Ashish Anand</td>
+<td>".decide($row['Ashish Anand'])."</td>
+</tr>
+
+<tr class='hello'>
+<td>Benny George K</td>
+<td>".decide($row['Benny George K'])."</td>
+</tr>
+
+<tr class='hello'>
+<td>Chandan Karfa</td>
+<td>".decide($row['Chandan Karfa'])."</td>
+</tr>
+
+<tr class='hello'>
+<td>Deepanjan Kesh</td>
+<td>".decide($row['Deepanjan Kesh'])."</td>
+</tr>
+
+<tr class='hello'>
+<td>Diganta Goswami</td>
+<td>".decide($row['Diganta Goswami'])."</td>
+</tr>
+
+<tr class='hello'>
+<td>G Sajith</td>
+<td>".decide($row['G Sajith'])."</td>
+</tr>
+
+<tr class='hello'>
+<td>Gautam Barua</td>
+<td>".decide($row['Gautam Barua'])."</td>
+</tr>
+
+<tr class='hello'>
+<td>Hemangee K Kapoor</td>
+<td>".decide($row['Hemangee K Kapoor'])."</td>
+</tr>
+
+<tr class='hello'>
+<td>Jatindra Kumar Deka</td>
+<td>".decide($row['Jatindra Kumar Deka'])."</td>
+</tr>
+
+<tr class='hello'>
+<td>John Jose</td>
+<td>".decide($row['John Jose'])."</td>
+</tr>
+
+<tr class='hello'>
+<td>Pinaki Mitra</td>
+<td>".decide($row['Pinaki Mitra'])."</td>
+</tr>
+
+<tr class='hello'>
+<td>Purandar Bhaduri</td>
+<td>".decide($row['Purandar Bhaduri'])."</td>
+</tr>
+
+<tr class='hello'>
+<td>R Inkulu</td>
+<td>".decide($row['R Inkulu'])."</td>
+</tr>
+
+<tr class='hello'>
+<td>Rashmi Duta Baruah</td>
+<td>".decide($row['Rashmi Duta Baruah'])."</td>
+</tr>
+
+<tr class='hello'>
+<td>S V Rao</td>
+<td>".decide($row['S V Rao'])."</td>
+</tr>
+
+<tr class='hello'>
+<td>Samit Bhattacharya</td>
+<td>".decide($row['Samit Bhattacharya'])."</td>
+</tr>
+
+<tr class='hello'>
+<td>Sanasam Ranbir Singh</td>
+<td>".decide($row['Sanasam Ranbir Singh'])."</td>
+</tr>
+
+<tr class='hello'>
+<td>Santosh Biswas</td>
+<td>".decide($row['Santosh Biswas'])."</td>
+</tr>
+
+<tr class='hello'>
+<td>Shivashankar B Nair</td>
+<td>".decide($row['Shivashankar B Nair'])."</td>
+</tr>
+
+<tr class='hello'>
+<td>Sukumar Nandi</td>
+<td>".decide($row['Sukumar Nandi'])."</td>
+</tr>
+
+<tr class='hello'>
+<td>Sushanta Karmakar</td>
+<td>".decide($row['Sushanta Karmakar'])."</td>
+</tr>
+
+<tr class='hello'>
+<td>T Venkatesh</td>
+<td>".decide($row['T Venkatesh'])."</td>
+</tr>
+
+<tr class='hello'>
+<td>V Vijaya Saradhi</td>
+<td>".decide($row['V Vijaya Saradhi'])."</td>
+</tr>
